@@ -1,0 +1,3 @@
+[alex] text
+Here plans for what implement and links to articles
+First is bootstrap investigating http://bootstrap-4.ru/
